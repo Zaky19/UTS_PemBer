@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#ADFF2F"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kalkulator"
+        android:textColor="#191970"
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Mesin hitung atau kalkulator adalah alat untuk menghitung dari perhitungan sederhana seperti penjumlahan, pengurangan, perkalian dan pembagian sampai kepada kalkulator ilmiah yang dapat menghitung rumus matematika tertentu. Pada perkembangannya sekarang ini, kalkulator sering dimasukkan sebagai fungsi tambahan daripada komputer, ponsel, bahkan sampai jam tangan. Rata-rata kalkulator memiliki 12 hingga 15 digit, tetapi mesin hitung ilmiah sanggup menghitung hingga angka 1 googol menggunakan rumus tertentu."
+        android:textColor="#191970"
+        android:textSize="20dp" />
+
+</LinearLayout>
